@@ -1,6 +1,6 @@
 # DEX Analytics Platform (Open Source)
 
-A modern, decentralized analytics dashboard inspired by leading tools in the DeFi space.
+A modern decentralized analytics dashboard inspired by leading tools in the DeFi space.
 
 This project monitors real-time data from decentralized exchanges across multiple chains. It's built to support Web3 developers, DeFi traders, and researchers exploring on-chain behavior.
 
